@@ -1,0 +1,46 @@
+.footer {
+  background-color: #12151D;
+  color: #fff;
+  padding: 3.125rem 0;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.footer-content {
+  max-width: 60rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer h2 {
+  margin-bottom: 1.25rem; 
+  font-size: 1.5rem;
+}
+
+.footer p {
+  margin-bottom: 1.25rem;
+}
+
+.contact-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.contact-item {
+  width: 40%; 
+  margin: 1rem; 
+  padding: 1.875rem; 
+  background-color: #787878;
+  border-radius: 0.3125rem; 
+  text-align: center;
+}
+
+.contact-item p {
+  margin-bottom: 0.625rem; 
+  font-weight: bold;
+}
+
+.contact-item span {
+  color: #00DD16;
+  font-weight: bold;
+}
